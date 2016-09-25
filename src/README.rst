@@ -1,0 +1,1 @@
+This pacakge contains utils for Windows Automation Test
